@@ -121,7 +121,7 @@
 <br>
 
 # 🖥️ 애플리케이션 화면
-![시작](https://github.com/user-attachments/assets/ef52a592-53c3-4c5b-8827-0283f4e32abc)
+![시작](https://github.com/user-attachments/assets/f290446e-8bd3-4043-a67b-c76b5d047507)
 
 ![회원가입,로그인](https://github.com/user-attachments/assets/5361c58a-4363-477a-a8e7-1db184e33e54)
 
