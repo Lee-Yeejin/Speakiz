@@ -123,7 +123,7 @@
 # 🖥️ 애플리케이션 화면
 ![시작](https://github.com/user-attachments/assets/6b04c6ce-81ec-4a43-9106-96d6e65ac2b8)
 <br>
-![회원가입,로그인](https://github.com/user-attachments/assets/5361c58a-4363-477a-a8e7-1db184e33e54)
+![회원가입,로그인](https://github.com/user-attachments/assets/a2bf5d21-f833-4022-9bf6-96cf522e06be)
 <br>
 
 ---
