@@ -121,18 +121,22 @@
 <br>
 
 # 🖥️ 애플리케이션 화면
-![시작](https://github.com/user-attachments/assets/8731ca98-26f8-4ad5-8a37-432f3a7f7b69)
+![시작](https://github.com/user-attachments/assets/4bc3cdd3-223c-4ec8-b66d-f43f043c673b)
 <br>
+
+---
+
 ![회원가입,로그인](https://github.com/user-attachments/assets/a2bf5d21-f833-4022-9bf6-96cf522e06be)
 <br>
 
 ---
+<br>
 
-![설문](https://github.com/user-attachments/assets/59604f2c-0732-4f27-8072-f71ae5590500)
+![설문](https://github.com/user-attachments/assets/7eb9e1ca-8868-4160-882e-0c2658c2b801)
 <br>
 <br>
 
----
+------------------
 ![레벨](https://github.com/user-attachments/assets/391fa860-7c15-4387-95a8-ed197babf94e)
 <br>
 
@@ -143,13 +147,19 @@
 
 ---
 
-![호흡시작](https://github.com/user-attachments/assets/59720a70-51ac-4202-9e51-bb8be08951f0)
-
-![호흡 중](https://github.com/user-attachments/assets/0738286a-2d02-49b7-9012-e765ad150b9e)
-
-![호흡 종료](https://github.com/user-attachments/assets/0ee68aa2-96bd-4e80-b65d-9229c8def291)
+![호흡시작](https://github.com/user-attachments/assets/bf6668b2-8e0e-4ebf-a952-25767442a9b3)
+<br>
+<br>
 
 
+![호흡 중](https://github.com/user-attachments/assets/8f192223-714c-4c49-be82-445e48153f17)
+<br>
+<br>
+
+
+![호흡 종료](https://github.com/user-attachments/assets/40cf4306-8203-4e9a-9b60-ea3f927b6529)
+
+---
 ![조음 웹캠](https://github.com/user-attachments/assets/70c5b070-1ac2-4034-bea1-a526c10bb926)
 ![조음](https://github.com/user-attachments/assets/8db368ba-5707-4403-9a53-38f7ba8c8d93)
 조음훈련
