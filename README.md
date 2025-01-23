@@ -128,7 +128,7 @@
 
 ---
 
-![설문](https://github.com/user-attachments/assets/e5f45b3f-dc95-402a-97d3-aeadc9bd43e6)
+![설문](https://github.com/user-attachments/assets/59604f2c-0732-4f27-8072-f71ae5590500)
 <br>
 <br>
 
