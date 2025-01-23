@@ -53,9 +53,13 @@
 <br>
 <details>
  <summary> 요구사항분석서  </summary>
+ <img src='https://github.com/user-attachments/assets/d0ff78b6-2cde-46aa-963d-e2b1f8b4bed1'>
+</details>
+<br>
+<details>
+ <summary> 시스템구성도  </summary>
  <img src=''>
 </details>
-
 
 
 
