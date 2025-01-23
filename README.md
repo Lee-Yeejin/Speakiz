@@ -125,12 +125,22 @@
 <br>
 ![회원가입,로그인](https://github.com/user-attachments/assets/5361c58a-4363-477a-a8e7-1db184e33e54)
 <br>
+
+---
+
 ![설문](https://github.com/user-attachments/assets/e5f45b3f-dc95-402a-97d3-aeadc9bd43e6)
 <br>
+
 ![레벨](https://github.com/user-attachments/assets/dd2ff39a-960d-4b46-8e96-87e58dfbed77)
 <br>
+
+---
+
 ![장소,훈련선택](https://github.com/user-attachments/assets/48f92c74-d869-4bf4-a6d4-89dcd7fcbb18)
 <br>
+
+---
+
 ![호흡시작](https://github.com/user-attachments/assets/59720a70-51ac-4202-9e51-bb8be08951f0)
 
 ![호흡 중](https://github.com/user-attachments/assets/0738286a-2d02-49b7-9012-e765ad150b9e)
