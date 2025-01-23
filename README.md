@@ -1,4 +1,4 @@
- 
+
 # 🐣 Speakiz 스피키즈
 <br>
 
@@ -158,11 +158,23 @@
 
 
 ![호흡 종료](https://github.com/user-attachments/assets/c6c2f802-8ba7-4066-b8ab-fa648210a057)
+<br>
+<br>
 
 ---
-![조음 웹캠](https://github.com/user-attachments/assets/70c5b070-1ac2-4034-bea1-a526c10bb926)
-![조음](https://github.com/user-attachments/assets/8db368ba-5707-4403-9a53-38f7ba8c8d93)
-조음훈련
+![조음 시작](https://github.com/user-attachments/assets/e8c59c53-e6d3-4836-860a-5487080637df)
+<br>
+<br>
+
+![조음](https://github.com/user-attachments/assets/3d58b0dd-5be0-4278-8038-69c92faf9e02)
+<br>
+<br>
+![조음 종료](https://github.com/user-attachments/assets/219353ea-d82d-42a9-8808-b4795293d9c7)
+<br>
+<br>
+
+---
+
 
 ![유창성](https://github.com/user-attachments/assets/ad2533f4-5408-477b-8591-5d98c8f4a0f7)
 ![유창성 종료](https://github.com/user-attachments/assets/b687a0b2-c2af-437b-b6fd-b36762cd11f1)
