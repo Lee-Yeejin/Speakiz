@@ -133,7 +133,7 @@
 <br>
 
 ---
-![레벨](https://github.com/user-attachments/assets/c0ff7456-be6e-4545-870f-0749fe993bb4)
+![레벨](https://github.com/user-attachments/assets/391fa860-7c15-4387-95a8-ed197babf94e)
 <br>
 
 ---
