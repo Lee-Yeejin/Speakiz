@@ -49,15 +49,15 @@
 # 📊 플로우차트, 요구사항분석서, 시스템구성도
 <details>
  <summary> 플로우차트  </summary>
- <img src='https://github.com/user-attachments/assets/09a2e76b-de66-483f-a961-a72b7f714a79' alt="로그인/회원가입">
-
- 
- <img src='https://github.com/user-attachments/assets/7cf8b7bf-ea70-48c7-894c-46112be1256e' alt="훈련 장소 선택">
-
-
- <img src='https://github.com/user-attachments/assets/91283cf6-a37c-41e9-968c-252ca3b7355e' alt="햄버거(메뉴) 버튼">
-
- 
+ <img src='https://github.com/user-attachments/assets/09a2e76b-de66-483f-a961-a72b7f714a79'>
+로그인/회원가입
+ <br>
+ <img src='https://github.com/user-attachments/assets/7cf8b7bf-ea70-48c7-894c-46112be1256e'>
+훈련 장소 선택
+ <br>
+ <img src='https://github.com/user-attachments/assets/91283cf6-a37c-41e9-968c-252ca3b7355e'>
+햄버거(메뉴) 창
+ <br>
 </details>
 <br>
 <details>
