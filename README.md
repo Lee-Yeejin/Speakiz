@@ -152,7 +152,7 @@
 <br>
 
 
-![호흡 중](https://github.com/user-attachments/assets/8f192223-714c-4c49-be82-445e48153f17)
+![호흡 중](https://github.com/user-attachments/assets/2ee03a0e-57fd-4dbb-a289-3b42ecc7bb44)
 <br>
 <br>
 
