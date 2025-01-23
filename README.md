@@ -31,34 +31,19 @@
 <br>
 <br>
 
-# 🔧사용 기술
-> <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&OCID=AIDcmmmbxccejx_SEM__k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
-<a href="https://www.adobe.com/kr/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-<a href="https://www.adobe.com/kr/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-<a href="https://cloud.google.com/?_gl=1*tk870s*_up*MQ..&gclid=CKvjkseQxYoDFctJwgUdW2kebg&gclsrc=ds"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-
-<br>
-<br>
-
 # 📊 플로우차트, 요구사항분석서, 시스템구성도
 <details>
  <summary> 플로우차트  </summary>
  <img src='https://github.com/user-attachments/assets/09a2e76b-de66-483f-a961-a72b7f714a79'>
-로그인/회원가입
+- 로그인/회원가입
  <br>
  <br>
  <img src='https://github.com/user-attachments/assets/7cf8b7bf-ea70-48c7-894c-46112be1256e'>
-훈련 장소 선택
+- 훈련 장소 선택
  <br>
  <br>
  <img src='https://github.com/user-attachments/assets/91283cf6-a37c-41e9-968c-252ca3b7355e'>
-햄버거(메뉴) 창
+- 햄버거(메뉴) 창
  <br>
  <br>
 </details>
@@ -77,10 +62,14 @@
 <br>
 
 # 📘 프로젝트 설명 
-
+<br>
+<br>
 'Speakiz'는 언어 발달 장애 아동을 위한 AI 기반 언어 훈련 애플리케이션입니다.
+<br>
+<br>
 
 ### ℹ️ 기획 의도
+<br>
 
 언어 장애를 겪는 아동에게 **조기 치료는 매우 중요**합니다.
 
@@ -88,8 +77,10 @@
                                                  
 이러한 **시공간의 제약을 극복**하고 지속적인 치료와 개선에 기여하기 위해 **비대면 언어 치료 앱을 개발**하게 되었습니다.
 
+<br>
 
 ### 💡 핵심 기능
+<br>
 
 ### - 호흡훈련 <br>
 언어 장애 아동은 호흡량이 적고 불안정하여 말하는데 어려움을 가집니다.
@@ -111,6 +102,21 @@
 
 피드백 내용을 통해 아동의 보완점을 파악할 수 있습니다.
 
+
+# 🔧사용 기술
+> <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&OCID=AIDcmmmbxccejx_SEM__k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
+<a href="https://www.adobe.com/kr/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<a href="https://www.adobe.com/kr/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+<a href="https://cloud.google.com/?_gl=1*tk870s*_up*MQ..&gclid=CKvjkseQxYoDFctJwgUdW2kebg&gclsrc=ds"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+
+<br>
+<br>
 
 # 🖥️ 애플리케이션 화면
 ![시작](https://github.com/user-attachments/assets/05c8986a-6191-40b1-a9bf-cc861669f1e6)
