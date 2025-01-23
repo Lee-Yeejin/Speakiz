@@ -46,7 +46,10 @@
 <br>
 
 # 📊 플로우차트, 요구사항분석서, 시스템구성도
- ![플로우차트](https://github.com/user-attachments/assets/591ce6cd-ac0a-4446-8224-48f6f63b0cb2)
+<details>
+ <summary> 플로우차 </summary>
+ <img src=' ![플로우차트](https://github.com/user-attachments/assets/591ce6cd-ac0a-4446-8224-48f6f63b0cb2)' alt ="플로우차트">
+</details>
 
 
 
