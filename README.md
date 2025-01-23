@@ -138,7 +138,7 @@
 
 ---
 
-![장소,훈련선택](https://github.com/user-attachments/assets/48f92c74-d869-4bf4-a6d4-89dcd7fcbb18)
+![장소,훈련선택](https://github.com/user-attachments/assets/6f7e93a2-5002-4626-b8c5-6c3f05d2d601)
 <br>
 
 ---
