@@ -102,9 +102,8 @@
 
 
 # 🖥️ 애플리케이션 화면
-![시작](https://github.com/user-attachments/assets/f77159ff-fce1-4f8d-adfa-8e95b65f36d7)
-시작화면 애니메이션
-![로그인](https://github.com/user-attachments/assets/906ca9ee-afb6-4d52-ab7c-d1fe7f077b82)
+![시작](https://github.com/user-attachments/assets/8fff8480-ee6c-4111-a365-c22f466bd552)
+
 ![설문](https://github.com/user-attachments/assets/12d039b0-2047-443d-a910-76e96658ba1e)
 실제 아동 언어 치료 설문조사 항목을 참고하여 선택한 5개의 질문으로 구성된 언어 발달 진단테스트 진행
 ![레벨](https://github.com/user-attachments/assets/c69e130c-bb5b-4d61-9ae8-241bc51128d3)
