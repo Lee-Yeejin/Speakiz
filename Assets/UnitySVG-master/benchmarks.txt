@@ -1,0 +1,120 @@
+(These numbers gathered on a late-2009 MacBook w/ 2.26Ghz Core2 Duo, and 4GB
+of 1067Mhz DDR3 RAM running OSX 10.6.1, under Unity 2.6.1)
+
+
+Initial version as posted to the wiki:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  25.4KiB 30.3MiB 16.0MiB         82.3MiB 34.2MiB 5.7MiB    34.5MiB
+Time1       368ms   2634ms  2683ms          7700ms  5162ms  950ms     2672ms
+Time2       312ms   1826ms  2076ms          7681ms  3609ms  931ms     2582ms
+Time3       358ms   1669ms  2778ms          9394ms  4439ms  972ms     2987ms
+
+
+After converting uSVGPoint to a struct:
+(Note that tiger.txt does virtually all of its remaining allocations in the XML
+parsing side of things, thus the relatively meager gains)
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  25.4KiB 63.7KiB 245.1KiB        20.5MiB 3.7MiB  158.1KiB  133.8KiB
+Time1       348ms   2007ms  2313ms          7307ms  3819ms  557ms     1595ms
+Time2       389ms   1412ms  2610ms          6614ms  3149ms  753ms     2064ms
+Time3       299ms   1380ms  1881ms          7905ms  3142ms  577ms     2077ms
+
+After XML improvements and other cleanup:
+(Unfortunately, a LOT of stuff got broken here.  GAH!)
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  18.4KiB N/A     N/A             8.6MiB  1.6MiB  N/A       65.0KiB
+Time1       264ms   N/A     N/A             7829ms  4186ms  N/A       2191ms
+Time2       199ms   N/A     N/A             6988ms  3910ms  N/A       1805ms
+Time3       207ms   N/A     N/A             7134ms  3606ms  N/A       2157ms
+
+
+After bug fixes:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  18.4KiB 44.4KiB 131.0KiB        8.6MiB  1.6MiB  68.6KiB   65.1KiB
+Time1       200ms   1595ms  2726ms          6412ms  3569ms  667ms     1722ms
+Time2       272ms   3874ms  3543ms          6608ms  3610ms  606ms     1521ms
+Time3       198ms   3891ms  3350ms          6201ms  3365ms  615ms     1981ms
+
+
+After 2010-08-06 optimization pass:
+(Note that the code produces a DLL about 9% smaller now.  Unfortunately, at
+least one test image -- lion -- produces incorrect results now.)
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  8.9KiB  18.1KiB 40.2KiB         4.4MiB  0.7MiB  19.3KiB   24.3KiB
+Time1       193ms   1101ms  1958ms          4560ms  3485ms  486ms     1372ms
+Time2       196ms   1098ms  1943ms          4565ms  3494ms  480ms     1370ms
+Time3       196ms   1111ms  1925ms          4572ms  3515ms  478ms     1362ms
+
+
+(Following numbers gathered on a mid-2012 Retina MacBook Pro w/ 2.7Ghz Core i7,
+and 16GB of 1600Mhz DDR3 RAM running OSX 10.8.2, under Unity 3.5.5.  NFI why
+the massive increase in memory usage but I presume it has to do with changes to
+Texture2D...)
+
+
+Same code as above:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.7MiB 11.7MiB 3.9MiB    7.9MiB
+Time1       124ms   939ms   1587ms          4516ms  2707ms  348ms     1141ms
+Time2       124ms   912ms   1567ms          4441ms  2702ms  346ms     1143ms
+Time3       123ms   913ms   1561ms          4423ms  2696ms  347ms     1175ms
+
+
+After 2012-10-03 optimizations:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.5MiB 12.9MiB 3.9MiB    7.9MiB
+Time1       127ms   838ms   1330ms          4157ms  2607ms  338ms     1070ms
+Time2       125ms   833ms   1330ms          4174ms  2609ms  339ms     1053ms
+Time3       125ms   838ms   1329ms          4180ms  2594ms  337ms     1052ms
+
+
+After LiteStack optimizations:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.9MiB 12.9MiB 3.9MiB    7.9MiB
+Time1       126ms   610ms   1263ms          3712ms  2419ms  338ms     793ms
+Time2       125ms   605ms   1268ms          3706ms  2397ms  337ms     800ms
+Time3       123ms   611ms   1258ms          3717ms  2410ms  338ms     793ms
+
+
+Removing deeper instrumentations:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.3MiB 12.9MiB 3.9MiB    7.9MiB
+Time1       124ms   611ms   1217ms          3711ms  2402ms  337ms     791ms
+Time2       123ms   607ms   1233ms          3710ms  2397ms  335ms     791ms
+Time3       126ms   603ms   1225ms          3689ms  2398ms  338ms     793ms
+
+
+After fixing lion.svg asset (I.E. just a fix to the artwork, no change to the
+code):
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.3MiB 12.9MiB 3.9MiB    7.9MiB
+Time1       124ms   611ms   1217ms          3711ms  2102ms  337ms     791ms
+Time2       123ms   607ms   1233ms          3710ms  2109ms  335ms     791ms
+Time3       126ms   603ms   1225ms          3689ms  2109ms  338ms     793ms
+
+After moving to our own canvas system:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  8.0MiB  15.7MiB 9.7MiB          15.3MiB 9.9MiB  7.7MiB    11.7MiB
+Time1       86ms    590ms   1052ms          3572ms  1999ms  291ms     749ms
+Time2       84ms    568ms   1068ms          3557ms  2016ms  297ms     751ms
+Time3       85ms    565ms   1071ms          3562ms  2026ms  295ms     747ms
+
+
+Reverting our own canvas system, but avoiding re-allocation of textures:
+
+File        none    arc1    lineargradient1 tiger   lion    test1     rect1
+Allocation  4.0MiB  11.9MiB 5.9MiB          11.3MiB 5.9MiB  3.9MiB    7.9MiB
+Time1       122ms   612ms   1221ms          3708ms  2087ms  338ms     792ms
+Time2       126ms   611ms   1220ms          3701ms  2089ms  340ms     789ms
+Time3       124ms   610ms   1220ms          3705ms  2092ms  340ms     791ms
