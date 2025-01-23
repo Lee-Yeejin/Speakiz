@@ -157,7 +157,7 @@
 <br>
 
 
-![호흡 종료](https://github.com/user-attachments/assets/40cf4306-8203-4e9a-9b60-ea3f927b6529)
+![호흡 종료](https://github.com/user-attachments/assets/c6c2f802-8ba7-4066-b8ab-fa648210a057)
 
 ---
 ![조음 웹캠](https://github.com/user-attachments/assets/70c5b070-1ac2-4034-bea1-a526c10bb926)
