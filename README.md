@@ -1,9 +1,10 @@
  
 # 🐣 Speakiz 스피키즈
+<br>
+
 ### Speakiz = Speak + Kiz!
 언어 발달 장애 아동을 위한 AI 기반 언어 훈련 애플리케이션
 
-<br>
 <br>
 
 # 📄 프로젝트 정보
