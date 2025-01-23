@@ -106,8 +106,7 @@
 
 ![설문](https://github.com/user-attachments/assets/e5f45b3f-dc95-402a-97d3-aeadc9bd43e6)
 
-![레벨](https://github.com/user-attachments/assets/c69e130c-bb5b-4d61-9ae8-241bc51128d3)
-아동의 언어 발달 수준 확인(기초/보통) 후 수준에 맞는 훈련 진행
+![레벨](https://github.com/user-attachments/assets/dd2ff39a-960d-4b46-8e96-87e58dfbed77)
 
 ![장소선택](https://github.com/user-attachments/assets/3c7af16c-37f5-4b33-9871-6c8e8031d629)
 집/학교 장소 선택
