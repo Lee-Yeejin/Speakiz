@@ -9,7 +9,8 @@
 >2024.03 ~ 2024.11<br>
 
 ### 2. 참여 인원 
-> |Name|Position|
+>
+|Name|Position|
 |------|---|
 |이예진|Game Programming|
 |손지우|Client Programming|
