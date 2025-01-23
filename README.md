@@ -19,15 +19,23 @@
 >|홍지은|Game Programming|<br>
 
 ### 3. 나의 역할 
->▪️ 호흡 훈련 개발
->
->▪️ 호흡 훈련 피드백 개발
->
->▪️ 조음 훈련 개발
->
->▪️ 조음 훈련 피드백 개발
->
->▪️ 훈련 데이터 저장
+> #### 호흡 훈련 개발<br>
+>  - 소리 감지 타이머  :  3초 이상 감지되면 타이머 중지.<br>
+>  - 성량 감지 로직   :  일정한 성량으로 소리를 내고 있는지 점검하는 로직.<br>
+
+> #### 호흡 훈련 피드백 개발<br>
+>  - 평균 소리 지속 시간 계산  :  사용자의 소리 지속 시간 데이터를 기반으로 평균값 산출.<br>
+>  - 성량 그래프 생성  :  소리의 성량 변화를 시각적으로 표현.<br>
+>  - 성공한 풍선 개수 저장  :  사용자의 호흡 성공 횟수 기록.<br>
+
+> #### 조음 훈련 개발<br>
+>  - Azure 음성인식을 통해 단어 발음을 음소 단위로 평가.<br>
+
+> #### 조음 훈련 피드백 개발<br>
+>  - 음소별 정확도 분석  : 단어를 음소 단위로 분리해 가장 낮은 정확도를 가진 음소 도출 후 해당 음소에 대한 상세 피드백 제공.<br>
+
+> #### 훈련 데이터 저장<br>
+>  - Unity의 내부 저장소 PlayerPrefs를 이용해 실시간으로 훈련 데이터 저장 후 피드백창에 띄움.<br>
 
 <br>
 <br>
@@ -147,12 +155,12 @@
 
 ---
 
-![호흡시작](https://github.com/user-attachments/assets/bf6668b2-8e0e-4ebf-a952-25767442a9b3)
+![호흡시작](https://github.com/user-attachments/assets/eca45f29-7005-4ca6-b30a-c246acb15267)
 <br>
 <br>
 
 
-![호흡 중](https://github.com/user-attachments/assets/d9db611d-c9e9-4a50-82fc-4de07b39628e)
+![호흡 중](https://github.com/user-attachments/assets/99b2177c-546f-4ad2-bf45-a393577c7a0f)
 <br>
 <br>
 
@@ -162,30 +170,34 @@
 <br>
 
 ---
-![조음 시작](https://github.com/user-attachments/assets/e8c59c53-e6d3-4836-860a-5487080637df)
+![조음 시작](https://github.com/user-attachments/assets/96d68133-a747-4670-85b9-05553158c24d)
 <br>
 <br>
 
 ![조음](https://github.com/user-attachments/assets/3d58b0dd-5be0-4278-8038-69c92faf9e02)
 <br>
 <br>
-![조음 종료](https://github.com/user-attachments/assets/219353ea-d82d-42a9-8808-b4795293d9c7)
+
+---
+
+![유창성](https://github.com/user-attachments/assets/5d9e417b-271e-4384-b421-ea8fbc3f6800)
+<br>
+<br>
+![유창성](https://github.com/user-attachments/assets/4afd015c-b3ff-465a-961f-c733e3d4ef30)
 <br>
 <br>
 
 ---
 
+![기록보기](https://github.com/user-attachments/assets/36945c2a-f175-47c7-b1db-1093c8d3ef72)
 
-![유창성](https://github.com/user-attachments/assets/ad2533f4-5408-477b-8591-5d98c8f4a0f7)
-![유창성 종료](https://github.com/user-attachments/assets/b687a0b2-c2af-437b-b6fd-b36762cd11f1)
-유창성훈련
+![호흡피드백](https://github.com/user-attachments/assets/041a2b26-753e-410a-9a2f-e24b6d66b3ca)
 
-![기록보기](https://github.com/user-attachments/assets/6cd50c9c-b648-49a8-9c67-dcc381c72a18)
-훈련 결과를 실시간으로 확인 가능 & 피드백 제공
-![호흡피드백](https://github.com/user-attachments/assets/ce8a7a07-5f18-48e8-b78c-fca81db9e7aa)
-![조음피드백](https://github.com/user-attachments/assets/9db098e3-7d05-4cb1-a59b-6b167546c034)
-![유창성 피드백](https://github.com/user-attachments/assets/806d1e4b-d7a8-4774-8775-b41f03c46a94)
-![개발정보](https://github.com/user-attachments/assets/204643fd-aa69-43b9-aeb2-e255115289ee)
-개발정보 애니메이션
+![조음피드백](https://github.com/user-attachments/assets/ad511e40-df14-4bfe-8bc0-9114eea561d3)
+
+![유창성 피드백](https://github.com/user-attachments/assets/d034419a-c0e5-42f7-b3b8-12304c7508a9)
+
+---
+![개발정보](https://github.com/user-attachments/assets/10f0fb88-efed-469d-99e2-e379cb1ce182)
 
 
