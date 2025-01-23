@@ -102,12 +102,13 @@
 
 
 # 🖥️ 애플리케이션 화면
-![시작](https://github.com/user-attachments/assets/8fff8480-ee6c-4111-a365-c22f466bd552)
+![시작](https://github.com/user-attachments/assets/05c8986a-6191-40b1-a9bf-cc861669f1e6)
 
-![설문](https://github.com/user-attachments/assets/12d039b0-2047-443d-a910-76e96658ba1e)
-실제 아동 언어 치료 설문조사 항목을 참고하여 선택한 5개의 질문으로 구성된 언어 발달 진단테스트 진행
+![설문](https://github.com/user-attachments/assets/e5f45b3f-dc95-402a-97d3-aeadc9bd43e6)
+
 ![레벨](https://github.com/user-attachments/assets/c69e130c-bb5b-4d61-9ae8-241bc51128d3)
 아동의 언어 발달 수준 확인(기초/보통) 후 수준에 맞는 훈련 진행
+
 ![장소선택](https://github.com/user-attachments/assets/3c7af16c-37f5-4b33-9871-6c8e8031d629)
 집/학교 장소 선택
 
