@@ -131,9 +131,12 @@
 
 ![장소,훈련선택](https://github.com/user-attachments/assets/48f92c74-d869-4bf4-a6d4-89dcd7fcbb18)
 
-![호흡](https://github.com/user-attachments/assets/de971127-8fe6-439e-8e04-4a03353d54aa)
-![호흡 종료](https://github.com/user-attachments/assets/544ec8cf-7d29-40a9-b431-04d16940a869)
-호흡훈련
+![호흡시작](https://github.com/user-attachments/assets/59720a70-51ac-4202-9e51-bb8be08951f0)
+
+![호흡 중](https://github.com/user-attachments/assets/0738286a-2d02-49b7-9012-e765ad150b9e)
+
+![호흡 종료](https://github.com/user-attachments/assets/0ee68aa2-96bd-4e80-b65d-9229c8def291)
+
 
 ![조음 웹캠](https://github.com/user-attachments/assets/70c5b070-1ac2-4034-bea1-a526c10bb926)
 ![조음](https://github.com/user-attachments/assets/8db368ba-5707-4403-9a53-38f7ba8c8d93)
