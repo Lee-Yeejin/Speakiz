@@ -52,11 +52,14 @@
  <img src='https://github.com/user-attachments/assets/09a2e76b-de66-483f-a961-a72b7f714a79'>
 로그인/회원가입
  <br>
+ <br>
  <img src='https://github.com/user-attachments/assets/7cf8b7bf-ea70-48c7-894c-46112be1256e'>
 훈련 장소 선택
  <br>
+ <br>
  <img src='https://github.com/user-attachments/assets/91283cf6-a37c-41e9-968c-252ca3b7355e'>
 햄버거(메뉴) 창
+ <br>
  <br>
 </details>
 <br>
