@@ -9,24 +9,22 @@
 >2024.03 ~ 2024.11<br>
 
 ### 2. 참여 인원 
->
-|Name|Position|
-|------|---|
-|이예진|Game Programming|
-|손지우|Client Programming|
-|홍지은|Game Programming|
+>|Name|Position|
+>|------|---|
+>|이예진|Game Programming|
+>|손지우|Client Programming|
+>|홍지은|Game Programming|
 
 ### 3. 나의 역할 
+>▪️ 호흡 훈련 개발
 >
-▪️ 호흡 훈련 개발
-
-▪️ 발음 훈련 개발
-
-▪️ 호흡 훈련 피드백 개발
-
-▪️ 발음 훈련 피드백 개발
-
-▪️ 훈련 데이터 저장
+>▪️ 발음 훈련 개발
+>
+>▪️ 호흡 훈련 피드백 개발
+>
+>▪️ 발음 훈련 피드백 개발
+>
+>▪️ 훈련 데이터 저장
 
 <br>
 <br>
