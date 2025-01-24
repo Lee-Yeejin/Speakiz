@@ -120,7 +120,7 @@
 ---
 <br>
 
-![설문](https://github.com/user-attachments/assets/7eb9e1ca-8868-4160-882e-0c2658c2b801)
+![설문](https://github.com/user-attachments/assets/7d516710-0d20-4f3a-82a6-3b4b0b7d9bfe)
 <br>
 <br>
 
@@ -136,15 +136,11 @@
 
 ![호흡시작](https://github.com/user-attachments/assets/eca45f29-7005-4ca6-b30a-c246acb15267)
 <br>
+
+![호흡 중](https://github.com/user-attachments/assets/5c1203e1-9d87-49c5-895c-e67a9d4a5dd3)
 <br>
 
-
-![호흡 중](https://github.com/user-attachments/assets/99b2177c-546f-4ad2-bf45-a393577c7a0f)
-<br>
-<br>
-
-
-![호흡 종료](https://github.com/user-attachments/assets/c6c2f802-8ba7-4066-b8ab-fa648210a057)
+![호흡 종료](https://github.com/user-attachments/assets/abf1aa53-3d94-4e6e-9fc8-ae8ddecb4c03)
 <br>
 <br>
 
@@ -153,7 +149,7 @@
 <br>
 <br>
 
-![조음](https://github.com/user-attachments/assets/3d58b0dd-5be0-4278-8038-69c92faf9e02)
+![조음](https://github.com/user-attachments/assets/8a28458b-ce80-4bb2-b669-ba402d987451)
 <br>
 <br>
 
@@ -162,7 +158,7 @@
 ![유창성](https://github.com/user-attachments/assets/5d9e417b-271e-4384-b421-ea8fbc3f6800)
 <br>
 <br>
-![유창성](https://github.com/user-attachments/assets/4afd015c-b3ff-465a-961f-c733e3d4ef30)
+![유창성](https://github.com/user-attachments/assets/34c18a62-5f4a-437a-ac9d-bf8579692c6f)
 <br>
 <br>
 
