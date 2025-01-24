@@ -9,36 +9,39 @@
 
 # 📄 프로젝트 정보
 ### 1. 개발 기간 
->2024.03 ~ 2024.11<br>
+> 2024.03 ~ 2024.11<br>
 
-### 2. 참여 인원 
+### 2. 개발 환경
+> Engine : Unity 2022.3.23f
+> Programming Language : C#
+> IDE : Visual Studio
+
+### 3. 참여 인원 
 >|Name|Position|
 >|------|---|
 >|이예진|Game Programming|
 >|손지우|Client Programming|
 >|홍지은|Game Programming|<br>
 
-### 3. 나의 역할 
-> #### 호흡 훈련 개발<br>
->  - 소리 감지 타이머  :  3초 이상 감지되면 타이머 중지.<br>
->  - 성량 감지 로직   :  일정한 성량으로 소리를 내고 있는지 점검하는 로직.<br>
->
-> #### 호흡 훈련 피드백 개발<br>
->  - 평균 소리 지속 시간 계산  :  사용자의 소리 지속 시간 데이터를 기반으로 평균값 산출.<br>
->  - 성량 그래프 생성  :  소리의 성량 변화를 시각적으로 표현.<br>
->  - 성공한 풍선 개수 저장  :  사용자의 호흡 성공 횟수 기록.<br>
->
-> #### 조음 훈련 개발<br>
->  - Azure 음성인식을 통해 단어 발음 정확도 점수를 음소 단위로 평가.<br>
->
-> #### 조음 훈련 피드백 개발<br>
->  - 음소별 정확도 분석  : 단어를 음소 단위로 분리해 가장 낮은 정확도를 가진 음소 도출 후 해당 음소에 대한 상세 피드백 제공.<br>
->
-> #### 훈련 데이터 저장<br>
->  - Unity의 내부 저장소 PlayerPrefs를 이용해 실시간으로 훈련 데이터 저장 후 피드백창으로 전송.<br>
+<br>
+<br>
+
+
+# 🔧사용 기술
+> <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&OCID=AIDcmmmbxccejx_SEM__k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
+<a href="https://www.adobe.com/kr/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<a href="https://www.adobe.com/kr/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+<a href="https://cloud.google.com/?_gl=1*tk870s*_up*MQ..&gclid=CKvjkseQxYoDFctJwgUdW2kebg&gclsrc=ds"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 <br>
 <br>
+
 
 # 📊 플로우차트, 요구사항분석서, 시스템구성도
 <details>
@@ -109,21 +112,6 @@
 피드백 창에서는 아동의 훈련 기록, 발음 정확도 점수, 피드백 내용을 확인할 수 있습니다.
 
 피드백 내용을 통해 아동의 보완점을 파악할 수 있습니다.
-
-<br>
-<br>
-
-# 🔧사용 기술
-> <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&OCID=AIDcmmmbxccejx_SEM__k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
-<a href="https://www.adobe.com/kr/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-<a href="https://www.adobe.com/kr/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-<a href="https://cloud.google.com/?_gl=1*tk870s*_up*MQ..&gclid=CKvjkseQxYoDFctJwgUdW2kebg&gclsrc=ds"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 <br>
 <br>
@@ -200,4 +188,24 @@
 ---
 ![개발정보](https://github.com/user-attachments/assets/10f0fb88-efed-469d-99e2-e379cb1ce182)
 
+
+
+# 👩‍💻 나의 역할 
+> #### 호흡 훈련 개발<br>
+>  - 소리 감지 타이머  :  3초 이상 감지되면 타이머 중지.<br>
+>  - 성량 감지 로직   :  일정한 성량으로 소리를 내고 있는지 점검하는 로직.<br>
+>
+> #### 호흡 훈련 피드백 개발<br>
+>  - 평균 소리 지속 시간 계산  :  사용자의 소리 지속 시간 데이터를 기반으로 평균값 산출.<br>
+>  - 성량 그래프 생성  :  소리의 성량 변화를 시각적으로 표현.<br>
+>  - 성공한 풍선 개수 저장  :  사용자의 호흡 성공 횟수 기록.<br>
+>
+> #### 조음 훈련 개발<br>
+>  - Azure 음성인식을 통해 단어 발음 정확도 점수를 음소 단위로 평가.<br>
+>
+> #### 조음 훈련 피드백 개발<br>
+>  - 음소별 정확도 분석  : 단어를 음소 단위로 분리해 가장 낮은 정확도를 가진 음소 도출 후 해당 음소에 대한 상세 피드백 제공.<br>
+>
+> #### 훈련 데이터 저장<br>
+>  - Unity의 내부 저장소 PlayerPrefs를 이용해 실시간으로 훈련 데이터 저장 후 피드백창으로 전송.<br>
 
