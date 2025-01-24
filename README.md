@@ -110,6 +110,9 @@
 
 
 ### 🖥️ 애플리케이션 화면
+
+---
+
 ![시작](https://github.com/user-attachments/assets/4bc3cdd3-223c-4ec8-b66d-f43f043c673b)
 <br>
 
@@ -142,24 +145,21 @@
 
 ![호흡 종료](https://github.com/user-attachments/assets/abf1aa53-3d94-4e6e-9fc8-ae8ddecb4c03)
 <br>
-<br>
 
 ---
+
 ![조음 시작](https://github.com/user-attachments/assets/96d68133-a747-4670-85b9-05553158c24d)
-<br>
 <br>
 
 ![조음](https://github.com/user-attachments/assets/8a28458b-ce80-4bb2-b669-ba402d987451)
-<br>
 <br>
 
 ---
 
 ![유창성](https://github.com/user-attachments/assets/5d9e417b-271e-4384-b421-ea8fbc3f6800)
 <br>
-<br>
+
 ![유창성](https://github.com/user-attachments/assets/34c18a62-5f4a-437a-ac9d-bf8579692c6f)
-<br>
 <br>
 
 ---
@@ -170,12 +170,16 @@
 
 ![조음피드백](https://github.com/user-attachments/assets/ad511e40-df14-4bfe-8bc0-9114eea561d3)
 
-![유창성 피드백](https://github.com/user-attachments/assets/d034419a-c0e5-42f7-b3b8-12304c7508a9)
+![유창성 피드백](https://github.com/user-attachments/assets/4cdc1e5f-c8e5-4587-8ac1-75f90ce9923a)
+<br>
 
 ---
-![개발정보](https://github.com/user-attachments/assets/10f0fb88-efed-469d-99e2-e379cb1ce182)
 
+![개발정보](https://github.com/user-attachments/assets/10f0fb88-efed-469d-99e2-e379cb1ce182)
 <br>
+
+---
+
 <br>
 
 # 👩‍💻 나의 역할
