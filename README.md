@@ -18,7 +18,7 @@
 >|Language|C#|
 >|IDE|Visual Studio|<br>
 
-### 3. 참여 인원 
+### 3. 팀원 및 역할
 >|Name|Position|
 >|------|---|
 >|이예진|Game Programming|
